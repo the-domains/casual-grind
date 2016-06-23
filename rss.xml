@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Casual Grind]]></title>
+        <description><![CDATA[Casual Grind]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 12:46:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You can make ripples or you can make a splash]]></title>
+            <description><![CDATA[<article><h1>You can make ripples or you can make a splash</h1><h2>We’re here to show you the ripples. Lots of places to get the splash...but there’s more to life.</h2><p>Shoes off, pole out, chilling with the next generation ... the casual grind.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e7764c8-16fa-4b3c-8c26-8b1af2765e03.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e7764c8-16fa-4b3c-8c26-8b1af2765e03.jpg</link>
+            <guid isPermaLink="false">52fe47ea-014a-45b8-87a7-b658ade443b9</guid>
+            <pubDate>Thu, 23 Jun 2016 12:46:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
